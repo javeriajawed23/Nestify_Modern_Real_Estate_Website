@@ -9,9 +9,9 @@ import Footer from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "EstateEase | Premium Real Estate Solutions",
+  title: "Nestify | Premium Real Estate Solutions",
   description:
-    "EstateEase provides seamless real estate services to help you buy, sell, or invest in properties effortlessly.",
+    "Nestify provides seamless real estate services to help you buy, sell, or invest in properties effortlessly.",
 };
 
 export default function RootLayout({ children }) {
